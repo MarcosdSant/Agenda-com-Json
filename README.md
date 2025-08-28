@@ -1,1 +1,2 @@
 # Agenda-com-Json
+Sou um desenvolvedor júnior e optei por iniciar diversos projetos que pudessem contribuir com meu aprendizado. Este é meu primeiro projeto com json tive muitas dificuldades principalmente quanto ao arquivo agenda, no qual tive que em alguns momentos recorrer a auxilio de IA para corrigir e orientar alguns pontos. Quanto o arquivo main consegui desenvolver com algumas consultas de material pessoal, mas foi tranquilo de fazê-la.
